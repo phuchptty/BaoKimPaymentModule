@@ -6,10 +6,7 @@
  * - Tích hợp thanh toán qua baokim.vn cho các merchant site có đăng ký API.
  * - Gửi thông tin thanh toán tới baokim.vn để xử lý việc thanh toán.
  * - Xác thực tính chính xác của thông tin được gửi về từ baokim.vn
- * Version: 1.0.1
- * Author: hieunn
  * Author URI: http://developer.baokim.vn/
- * License: BaoKim, Jsc 2013
  */
 
 if (!defined('ABSPATH')) exit; // Exit if accessed directly
