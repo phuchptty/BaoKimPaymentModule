@@ -7,8 +7,6 @@
  * - Ghi log BPN nhận được
  * - Nếu xác minh thông tin trên BPN thành công, cập nhật (hoàn thành) đơn hàng
  *
- * Copy Right by BaoKim, Jsc 2013
- * @author hieunn
  */
 
 /**
